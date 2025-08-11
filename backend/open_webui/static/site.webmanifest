@@ -1,6 +1,5 @@
-{
-  "name": "Open WebUI",
-  "short_name": "WebUI",
+  "name": "dontmind AI",
+  "short_name": "dontmind",
   "icons": [
     {
       "src": "/static/web-app-manifest-192x192.png",
